@@ -1,4 +1,4 @@
-# Simple-Chatty-Bot
+# Chat-Bot for Beginner
 In this project, I'm creating step by step a simple bot.
 
 For the first stage, I'm writing a bot who displays a greeting, its name and the date of its creation.
